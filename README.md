@@ -11,7 +11,7 @@ Welcome to MAD Chat, the future of communication in your hands! 😎🔥 This is
 
 💬 Real-Time Chat: Chat with your friends, share status updates, and connect with the world instantly. 💬🚀
 
-🌐 Modern UI: With a glassmorphic aesthetic, your tasks and chats come to life in a futuristic, interactive layout. 💻✨
+🌐 Modern UI: With a glassmorphic aesthetic, your tasks and chats come to life in a futuristic, interactive layout. 💻
 
 🏗️ Tech Stack:
 Frontend: React, CSS3, HTML5
@@ -49,9 +49,9 @@ Open http://localhost:3000 in your browser and feel the madness! 🤩
 If you think you can level up MAD Chat, contribute! Open a pull request and let's make this thing even more insane together. 💯
 
 📱 Join the Madness:
-Ready to chat like never before? Download MAD Chat and experience a whole new world of communication. 💬🚀
+Ready to chat like never before? Download MAD Chat and experience a whole new world of communication. 💬
 
 ✨ Final Words:
-This is just the beginning. MAD Chat is evolving, and so are you. Stay tuned for updates that’ll blow your mind. 💥👾
+This is just the beginning. MAD Chat is evolving, and so are you. Stay tuned for updates that’ll blow your mind. 💥
 
-Stay MAD. Stay Connected. 😎🔥
+Stay MAD. Stay Connected. 😎
